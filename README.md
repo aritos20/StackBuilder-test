@@ -32,7 +32,6 @@ Using the programming language that you feel most proficient with, write a progr
 ## Setting the project
 1. Download the repo: https://github.com/aritos20/StackBuilder-test.git
 2. You have to install clang++ to compile the project which is done in C++.
-3. To test the project there is a Makefile that compile the same, so you have to do this: in terminal run the command `make` and the project will compile entirely and to run the tests tou have to execute the next command `./MusicalLake`
 
 ## Test the project
 To test the project there is a Makefile that compile the same, so you have to do this: in a terminal run the command `make` and the project will compile entirely and to run the tests tou have to execute the next command `./MusicalLake`
